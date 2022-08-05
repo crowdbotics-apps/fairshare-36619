@@ -59,7 +59,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-welcome](screens/welcome)
-- [terms-and-conditions]()
 - [react-native-articles](modules/articles)
 - [react-native-app-menu](modules/app-menu)
 - [screen-google-calendar](screens/google-calendar)
