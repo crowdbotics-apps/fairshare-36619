@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [react-native-articles](modules/articles)
 - [react-native-app-menu](modules/app-menu)
+- [screen-google-calendar](screens/google-calendar)
 
 # Getting started: Frontend
 
